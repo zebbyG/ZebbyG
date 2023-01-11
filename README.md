@@ -1,5 +1,4 @@
-![gitartwork](gitartwork.svg)
-### Hi there 👋
+### Hi there 👋 I am...
 ### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
 
 - 🔭 I’m currently working on growing my back-end skills.
