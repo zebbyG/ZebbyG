@@ -1,38 +1,4 @@
 ![gitartwork](gitartwork.svg)
-
-# Hello there! 👋🏻 I am Lucy Mutuota!
-
-I am FullStack Software Engineering student at ALX SE Program. I love to travel and learn to code. I want to change the world while implementing my ideas. 
-
-
-# Check me out on [Twitter](https://www.twitter.com/lucymutuota?follow_confirmation=1).
-
-
-
-![Frrole_Lead](https://user-images.githubusercontent.com/99334158/178338285-80180c10-185c-42c7-8cea-a436f589fb76.gif)
-
-  
-- 💼 any freelance work? do reach, [email](mailto:lulucy.001@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Hi there 👋
 ### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
 
