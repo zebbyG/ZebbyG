@@ -7,4 +7,4 @@
 - 💬 Ask me about python
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/">My Linkedin</a>
 - 😄 Pronouns: He😅
-- ⚡ Fun fact: Google's name was the fruit of a spelling mistake.
+- ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
