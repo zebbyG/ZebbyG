@@ -1,4 +1,5 @@
 ### Hi there 👋
+### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
 
 - 🔭 I’m currently working on growing my back-end skills.
 - 🌱 I’m currently learning python, JS, MySQL.
