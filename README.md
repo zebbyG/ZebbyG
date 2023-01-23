@@ -2,7 +2,7 @@
 ### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
 
 - 🔭 I’m currently working on growing my back-end skills.
-- 🌱 I’m currently learning python, JS, MySQL, TS, NoSQL
+- 🌱 I’m currently learning python, JS, MySQL and more back-end concepts
 - 👯 I’m looking to collaborate on any back-end projects.
 - 💬 Ask me anything. Am ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/">My Linkedin</a>
