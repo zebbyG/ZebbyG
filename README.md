@@ -3,7 +3,7 @@
 
 <img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 <p align="center">
-  <a href="https://github.com/zebbyG/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Zebbylion%20Njau.;A%20Passionate%20back-end Software%20Engineer;from%20Nairobi,%20Kenya.;Ready%20to%20learn%20new%20things%2e&font=Matrix%20Code&center=true&width=460&height=50&color=990099&vCenter=true&size=22"></a>
+  <a href="https://github.com/zebbyG/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Zebbylion%20Njau.;A%20Passionate%20back-end Software%20Engineer;from%20Nairobi,%20Kenya.;Ready%20to%20learn%20new%20things%2e&font=Matrix%20Code&center=true&width=460&height=50&color=990099&vCenter=true&size=22></a>
     </p>
 
 - 🔭 I’m currently working on growing my back-end skills. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
