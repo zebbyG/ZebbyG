@@ -1,8 +1,6 @@
 ### Hi there 👋 I am...
 ### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
-<div>
 <img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
-</div>
 - 🔭 I’m currently working on growing my back-end skills.
 - 🌱 I’m currently learning python, JS, MySQL and more back-end concepts
 - 👯 I’m looking to collaborate on any back-end projects.
