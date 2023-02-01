@@ -1,9 +1,6 @@
 ### Hi there 👋 I am...
 ### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-
 <img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
 - 🔭 I’m currently working on growing my back-end skills. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -47,4 +44,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zebbyG&&style=flat-square" align="center" />
-</div>  
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
