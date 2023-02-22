@@ -4,7 +4,7 @@
 <img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
 - 🔭 I’m currently working on growing my back-end skills. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning python, JS, MySQL and more back-end concepts
+- 🌱 I’m currently learning python, MySQL and more back-end concepts
 - 👯 I’m looking to collaborate on any back-end projects.
 - 💬 Ask me anything. Am ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/">My Linkedin</a>
