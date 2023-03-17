@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on any back-end projects.
 - 💬 Ask me anything. Am ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/">My Linkedin</a>
-- 😄 Pronouns: He😅
+- 😄 Pronouns: He/him😅
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake.(Googol)
 
 ## My Skill Set  
