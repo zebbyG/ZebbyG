@@ -1,5 +1,5 @@
 ### Hi there 👋 I am...
-### <a href="https://github.com/zebbyG">ZEBBYLION NJAU</a>
+### <a href="https://zebbyg.github.io/My-portfolio/">ZEBBYLION NJAU</a>
 
 <img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
@@ -44,8 +44,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zebbyG&&style=flat-square" align="center" />
 </div>
-
-  ### <a href="https://zebbyg.github.io/My-portfolio/">PORTFOLIO</a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
