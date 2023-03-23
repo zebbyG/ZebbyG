@@ -34,7 +34,7 @@
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>    
 </div>
   
-  ### <a href="https://zebbyg.github.io/My-portfolio/">PORTFOLIO</a>
+  
 
 </td></tr>
 </table>  
@@ -44,6 +44,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zebbyG&&style=flat-square" align="center" />
 </div>
+
+  ### <a href="https://zebbyg.github.io/My-portfolio/">PORTFOLIO</a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
