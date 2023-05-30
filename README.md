@@ -1,5 +1,5 @@
 ### Hi there 👋 I am...
-### <a href="https://zebbyg.github.io/My-portfolio/">ZEBBYLION NJAU</a>
+### <a>ZEBBYLION NJAU</a>
 
 <img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
