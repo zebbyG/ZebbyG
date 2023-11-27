@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Anything Backend.
 - 👯 I’m looking to collaborate on any software projects.
 - 💬 Ask me anything. Am ready to help💯
-- 📫 How to reach me: <a style="text-decoration: none; color: black" href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/">My Linkedin</a>
+- 📫 How to reach me: <a text-decoration="none" color="black" href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/">My Linkedin</a>
 - 😄 Pronouns: He/him😅
 - ⚡ Fun fact: Google's name was the fruit of a spelling mistake. (Googol)
   
